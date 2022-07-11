@@ -5,6 +5,11 @@
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
+        {% if site.tutoring == true %}
+            <li class="item">
+                <a class="link" href="{% if site.tutoring-external %}{{ site.tutoring-url }}{% else %}{{ site.url }}/{{ site.tutoring-url }}{% endif %}">Tutoring</a>
+            </li>
+        {% endif %}
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
