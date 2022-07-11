@@ -20,6 +20,12 @@ resume: true
 resume-external: true
 resume-url: https://chaimtime.github.io/Tutoring
 
+# If you want to include your resume, set to true
+# and specify source (external or local).
+tutoring: true
+resume-tutoring: true
+tutoring-url: https://chaimtime.github.io/Tutoring
+
 url: https://chaimtime.github.io/
 # your url: https://USERNAME.github.io
 
@@ -31,7 +37,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: ChaimCohen
@@ -43,17 +49,12 @@ email: chaim@chaimtime.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Haim Cohen
+    bio: CS Teacher, Podcaster @inThirty, Organizer of @cryptovillage, and Chairman of @hpboro Public Information Committee.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: chaimtime
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
