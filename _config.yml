@@ -24,7 +24,7 @@ resume-url: https://chaimtime.github.io/Tutoring
 # and specify source (external or local).
 tutoring: true
 resume-tutoring: true
-tutoring-url: https://chaimtime.github.io/Tutoring
+tutoring-url: /Tutoring
 
 url: https://chaimtime.github.io/
 # your url: https://USERNAME.github.io
