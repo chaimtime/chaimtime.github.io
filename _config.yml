@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://chaimtime.github.io/Tutoring
 
-url: https://chaimtime.github.io/Tutoring
+url: https://chaimtime.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
