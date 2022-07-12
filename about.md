@@ -40,23 +40,7 @@ Now, I can use Github pages. Literally github will give me some space to host a 
 ### Figuring out what I need
 I don't blog. I admit it. However, I want a spot on the internet, for some stuff. Two things are really important to me right now. First is a new tutoring venture I'm trying out. Second is a spot for my resume. Both of those are again hosted with Github pages. There will hopefully be a blog post on how I got all of this working. 
 
-What really started this was the fact I couldn't get a TLS certificate on my current hosting plan. If you believe the conspiracy theory, since they sold
-TLS certs, they wouldn't integrate with [Let's Encrypt]. I also was being charged way too much by my old host. I really just wanted a landing page, with the
-ability to blog every once in a while. Here were my requirements.
 
-- Speed - Being able to write and publish a post fast
-- Security - I'm tired of trying to secure wordpress
-- Load Times- Black text on a white background shouldn't take that long to load
-- Learning - I want to learn how all of this works.
-	
-I don't know why [Jekyll] jumped out at me. I was about to modify my old wordpress site, and call it a day. I guess I saw how fast it loaded, and figured
-I could do this as well.
-
-
-I heavily edited [NiceBlog] theme. Jekyll does not have a ton of themes to choose from. They were either too plain, or too blog heavy. 
-
-I really like the idea of sharing individual pages. A lot of sites are moving away from having people click around. I want each post to be stand-alone. Yes, you can browse, but really the content
-is contained in one page, then that is all the user should see.
 
 # Hosting
 Github pages is free, and I can have multiple projects. I'm sold. Now I save a few dollars per month, I can use on something else. I still love [DigitalOcean], and I'll be hosting my podcast there, however, 20 hits a day on a personal blog is worth looking elsewhere. 
@@ -79,7 +63,6 @@ There should not be any cookies. There is no reason to have them.
 
 [Jekyll]: <https://jekyllrb.com>
 [Let's Encrypt]: <https://letsencrypt.org>
-[Nice Blog]: <http://jekyllthemes.org/themes/nice-blog/>
 [DigitalOcean]: <https://m.do.co/c/d213df149b40>
 [ShortExplanations]:<https://shortexplanations.com>
  
