@@ -26,7 +26,7 @@ tutoring: true
 tutoring-external: true
 tutoring-url: https://chaimtime.github.io/tutoring
 
-url: https://chaimtime.github.io/
+url: https://chaimtime.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
