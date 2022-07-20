@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Moving to Github Pages"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -10,7 +10,7 @@ tag:
 - extra
 category: blog
 author: jamesfoster
-description: Markdown summary with different options
+description: Tips for someone else moving
 ---
 
 ## Summary:
