@@ -43,7 +43,9 @@ However, this site, is exactly what I needed:  [How to set up MULTIPLE GitHub Pa
 The above site is way better than the github tutorial. The github tutorial is way too complicated for what most people needed. Essentially, you name your root repo githubname.github.io. Then set your custom domain to that repo. Seriously the above website solves many problems.
 
 ### Enforce HTTPS
-My next problem is getting a TLS certificate. I found out that you must have the www.domainname.com, instead of just domainname.com. I didn't look for a solution for a bit, but it was driving me crazy for days. 
+My next problem is getting a TLS certificate. ~~I found out that you must have the www.domainname.com, instead of just domainname.com. I didn't look for a solution for a bit, but it was driving me crazy for days.~~ I had lots of problems. I thought I had it working, but it would just fail.
+
+I finally contacted github, and it was DNS. Literally typed the the DNS resolver wrong. 
 
 ### Root Structure
 With my template, I followed the above link. I don't mind that my projects are chaimtime.com/repo. That is fine. I really wanted subdomains, but it wasn't a dealbreaker, especially, that free is the right price. 
