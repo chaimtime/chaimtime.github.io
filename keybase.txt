@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/chaimcohen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chaimtime.com
+  * I am chaimcohen (https://keybase.io/chaimcohen) on keybase.
+  * I have a public key ASDN8h7LqynU97IlS43lXi69TcRbMZnpT48YkmVraeUtiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101189991e0d6255016b6c2c0211ec09771d39ba018965780880ff1769a84c8d49c0a",
+      "host": "keybase.io",
+      "kid": "0120cdf21ecbab29d4f7b2254b8de55e2ebd4dc45b3199e94f8f1892656b69e52d8b0a",
+      "uid": "972b22d222252a88d1dab319a6b16700",
+      "username": "chaimcohen"
+    },
+    "merkle_root": {
+      "ctime": 1659582111,
+      "hash": "12e9f9fdc05ce8ded6bc0bdddeefb563a400ad6ee53dd2fdb94e4e0d6f284e68de518c22205b4a464a70b8dbb742f569485934cec748442dcf8251331a7c85b4",
+      "hash_meta": "57e4c35b63cd5fcbec5aa79cc936d9d06073242cde09add2c550d6fe6e5aaeaf",
+      "seqno": 22963648
+    },
+    "service": {
+      "entropy": "rTOxozTSqh4gcb0l8MA9IWo1",
+      "hostname": "chaimtime.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1659582144,
+  "expire_in": 504576000,
+  "prev": "bb3fea907b53619b43e217be42f563921f8df5501c7204dde64a352582c24a02",
+  "seqno": 105,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzfIey6sp1PeyJUuN5V4uvU3EWzGZ6U+PGJJla2nlLYsKp3BheWxvYWTESpcCacQguz/qkHtTYZtD4he+QvVjkh+N9VAccgTd5ko1JYLCSgLEIA4hxuN3QneRw172Irf6G/i71Vjo7Dt2X/Pzh+R+WzGpAgHCo3NpZ8RAesrSOJmvDsSS6TqoVPw8B+DaKSG5/AmKbAYHIDIuruF3/3d3N3zHuvdPBGg4OWUJRrnCtXCBQ0pT0xby5a7ACKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILrDfIeHnDFNRtTPNb57G9Ej0ODPmXJCqq0YQXPHVVGBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chaimcohen
+
+==================================================================
