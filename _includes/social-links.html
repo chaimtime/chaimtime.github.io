@@ -12,6 +12,11 @@
             <i class="fa-brands fa-twitter"></i>
         </a>
     {% endif %}
+    {% if site.mastodon %}
+        <a class="link" data-title="infosec.exchange/{{ site.mastodon }}" href="https://infosec.exchange/{{ site.mastodon }}" target="_blank"  rel="me">
+            <i class="fab fa-mastodon"></i>
+        </a>
+    {% endif %}
 
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
