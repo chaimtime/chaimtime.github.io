@@ -7,10 +7,9 @@ headerImage: false
 tag:
 - Home Projects
 - Electrical
-star: true
 category: blog
-author: chaimcohen
-description: Creating a quasi-permanent whole house generator
+author: Chaim
+description: Installing a generator to my panel box using a power inlet
 ---
 
 # The Project
