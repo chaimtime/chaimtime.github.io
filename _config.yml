@@ -1,6 +1,6 @@
 # main text of home
 title: Haim Cohen
-bio: Just a random guy on the internet playing with new, shiny things. 
+bio: Chaim is a computer science high school teacher in New Jersey. In his free time, he hosts [Short Explanations], a security podcast, teaching people that salted hashes are not breakfast. At home he teaches his son emoji as a second language, and 11 comes after 10.
 
 # twitter summary info
 description: My little playground on the internet
@@ -47,11 +47,12 @@ linkedin: cohenh
 github: chaimtime
 mastodon: chaimtime
 email: chaim@chaimtime.com
+podcast: shortexplanations.com
 
 authors:
   Chaim:
     name: Haim Cohen
-    bio: CS Teacher, Podcaster, Organizer of cryptovillage, and Chairman of hpboro Public Information Committee.
+    bio: CS Teacher, Podcaster, Organizer of Cryptovillage, and Chairman of Highland Park NJ Public Information Committee.
     external-image: false
     picture: assets/images/haimcupcakeround.jpg
     twitter: chaimtime
