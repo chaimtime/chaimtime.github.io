@@ -39,7 +39,7 @@ The next week, I tried on other belts. Holy vanity sizing batman. I learned some
 I originally planned to lose 100lbs by Thanksgiving. In July. Just three months, down 55lbs, I made a declaration that If I could lose 100lbs by Thanksgiving, I would want to celebrate. You can’t celebrate with food, so I said, I want to buy that belt. Not just any belt, but something so over the top  that it will have a story to it. Make this purchase an experience. My 40th birthday is 10 days after Thanksgiving, so let this belt purchase be the culminating experience of my journey.
 
 
-If you want to help me celebrate this journey, and you can afford it, can you chip in and help me buy my belt. Not just any belt, but a high-end designer belt. Something with a story that I will always remember. Again, only if you can afford it. 
+
 
 # Before 
 
@@ -55,4 +55,11 @@ If you want to help me celebrate this journey, and you can afford it, can you ch
 
 ![November 2024](/assets/images/November.jpg)
 
+# Donate
+
+If you want to help me celebrate this journey, and you can afford it, can you chip in and help me buy my belt. Not just any belt, but a high-end designer belt. Something with a story that I will always remember. Again, only if you can afford it. 
 	
+If you can afford to donate:  
+[Venmo](https://venmo.com/u/chaimtime)   
+[PayPal](https://www.paypal.com/paypalme/chaimtime)
+
