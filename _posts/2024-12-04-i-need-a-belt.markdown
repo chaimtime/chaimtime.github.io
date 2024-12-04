@@ -2,7 +2,7 @@
 title: "I Lost 100 Pounds in 6 Months: Help Me Buy a Belt"
 layout: post
 date: 2024-12-03 08:52
-image: /assets/images/markdown.jpg
+image: /assets/images/haimcupcake.jpg
 headerImage: false
 tag:
 - Weight Loss
