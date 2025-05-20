@@ -38,15 +38,15 @@ Sincerely,
 Haim Cohen 
 
 
-#Some before photos: 
-![June 2022](/assets/images/june22a.jpg) June 2022
+# Some before photos: 
+June 2022 ![June 2022](/assets/images/june22a.jpg) 
        		 
-![June 2022](/assets/images/june22b.jpg) June 2022
-![February 2023](/assets/images/june22c.jpg) February 2023
+June 2022 ![June 2022](/assets/images/june22b.jpg) 
+February 2023 ![February 2023](/assets/images/june22c.jpg)
 
  
  
-![My 40th Birthday in December - Down 100 lbs](/assets/images/dec24.jpg) My 40th Birthday in December (Down 100 lbs)
+My 40th Birthday in December (Down 100 lbs) ![My 40th Birthday in December - Down 100 lbs](/assets/images/dec24.jpg) 
  
 
  
