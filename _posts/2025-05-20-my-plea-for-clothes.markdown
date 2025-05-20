@@ -39,12 +39,16 @@ Haim Cohen
 
 
 # Some before photos: 
-June 2022 ![June 2022](/assets/images/june22a.jpg) 
+June 2022 
+
+![June 2022](/assets/images/june22a.jpg) 
        		 
 June 2022
+
 ![June 2022](/assets/images/june22b.jpg) 
 
 February 2023 
+
 ![February 2023](/assets/images/June22c.jpg)
 
  
