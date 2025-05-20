@@ -81,13 +81,16 @@ The suit that was tailored
 
 ## My current collection of Brooks Brothers suits and shirts that are still wearable
 
-![May 2025](/assets/images/may25e.jpg)Suits
+Suits 
 
-  
+![May 2025](/assets/images/may25e.jpg)
+
+
+Shirts
+
+![May 2025](/assets/images/may25f.jpg)  
+
 ## Recent purchases. The opened shirts were on clearance. The packaged shirts were bought after a proper fitting recently at the Short Hills location.
-
-
-![May 2025](/assets/images/may25f.jpg)
 
 ![May 2025](/assets/images/may25g.jpg)
 
