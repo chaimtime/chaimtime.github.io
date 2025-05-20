@@ -2,7 +2,7 @@
 title: "I lost 118 pounds and Nothing Fits. Can Brooks Brothers help?"
 layout: post
 date: 2025-05-20 13:52
-image: /assets/images/haimcupcake.jpg
+image: /assets/images/May25a.jpg
 headerImage: false
 tag:
 - Weight Loss
@@ -38,12 +38,12 @@ Sincerely,
 Haim Cohen 
 
 
-# Some before photos: 
+# Some before photos:
 June 2022 
 
 ![June 2022](/assets/images/june22a.jpg) 
        		 
-June 2022
+June 2022 
 
 ![June 2022](/assets/images/june22b.jpg) 
 
@@ -90,7 +90,8 @@ Shirts
 
 ![May 2025](/assets/images/may25f.jpg)  
 
-## Recent purchases. The opened shirts were on clearance. The packaged shirts were bought after a proper fitting recently at the Short Hills location.
+## Recent purchases. 
+### The opened shirts were on clearance. The packaged shirts were bought after a proper fitting recently at the Short Hills location.
 
 ![May 2025](/assets/images/may25g.jpg)
 
