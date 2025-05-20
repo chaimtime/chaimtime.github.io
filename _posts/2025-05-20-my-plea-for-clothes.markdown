@@ -41,30 +41,43 @@ Haim Cohen
 # Some before photos: 
 June 2022 ![June 2022](/assets/images/june22a.jpg) 
        		 
-June 2022 ![June 2022](/assets/images/june22b.jpg) 
-February 2023 ![February 2023](/assets/images/june22c.jpg)
+June 2022
+![June 2022](/assets/images/june22b.jpg) 
+
+February 2023 
+![February 2023](/assets/images/June22c.jpg)
 
  
  
-My 40th Birthday in December (Down 100 lbs) ![My 40th Birthday in December - Down 100 lbs](/assets/images/dec24.jpg) 
+My 40th Birthday in December (Down 100 lbs) 
+![My 40th Birthday in December - Down 100 lbs](/assets/images/dec24.jpg) 
  
 
  
-#After photos (Down 118 lbs)
+# After photos (Down 118 lbs)
 May 2025
 
-![May 2025](/assets/images/May25a.jpg) My favorite suit		
-![May 2025](/assets/images/may25b.jpg) The suit that was tailored
-![May 2025](/assets/images/may25c.jpg) A secondhand purchase (still big)	
-![May 2025](/assets/images/may25d.jpg) My new sportscoat that just fits
+ My favorite suit	
+ ![May 2025](/assets/images/May25a.jpg)	
+
+The suit that was tailored
+![May 2025](/assets/images/may25b.jpg) 
+
+ A secondhand purchase (still big)	 
+ ![May 2025](/assets/images/may25c.jpg)
+ 
+ My new sportscoat that just fits
+ ![May 2025](/assets/images/may25d.jpg)
 
 
-#My current collection of Brooks Brothers suits and shirts that are still wearable
+# My current collection of Brooks Brothers suits and shirts that are still wearable
 ![May 2025](/assets/images/may25e.jpg)Suits
 
   
-#Recent purchases. The opened shirts were on clearance. The packaged shirts were bought after a proper fitting recently at the Short Hills location.
+# Recent purchases. The opened shirts were on clearance. The packaged shirts were bought after a proper fitting recently at the Short Hills location.
+
 ![May 2025](/assets/images/may25f.jpg)
+
 ![May 2025](/assets/images/may25g.jpg)
 
  
