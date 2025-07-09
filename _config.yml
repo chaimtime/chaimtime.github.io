@@ -8,7 +8,7 @@ description: My little playground on the internet
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/haimcupcake.jpg
+picture: assets/images/haimsuit.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -54,7 +54,7 @@ authors:
     name: Haim Cohen
     bio: CS Teacher, Podcaster, Organizer of Cryptovillage, and Chairman of Highland Park NJ Public Information Committee.
     external-image: false
-    picture: assets/images/haimcupcakeround.jpg
+    picture: assets/images/haimsuitcircle.png
     twitter: chaimtime
   
 
