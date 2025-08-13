@@ -20,6 +20,111 @@ description: An interactive presentation on enhancing campus safety at Trenton S
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
+        .preso-body { font-family: 'Inter', sans-serif; }
+        .preso-slide { display: none; width: 100%; max-width: 1024px; animation: preso-fadeIn 0.5s; }
+        .preso-slide.active { display: flex; }
+        @keyframes preso-fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+</head>
+<body class="preso-body bg-gray-100 flex items-center justify-center min-h-screen p-4">
+
+    <div id="preso-container" style="display: flex; flex-direction: column; width: 100%; max-width: 64rem; max-height: 95vh; background-color: white; border-radius: 1rem; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25); overflow: hidden;">
+        
+        <div id="preso-slides-wrapper" style="flex-grow: 1; min-height: 0; overflow-y: auto; display: flex; align-items: center; justify-content: center; padding: 2rem;">
+            
+            <div class="preso-slide active">
+                <div class="text-center">
+                    <h1 class="text-3xl md:text-5xl font-bold text-blue-900 mb-4">Data-Driven Resource Allocation</h1>
+                    <p class="text-xl md:text-2xl text-blue-800 mb-8">Enhancing Campus Safety and Security at Trenton State</p>
+                    <p class="text-lg text-gray-600">A Presentation for the Trenton State Executive Leadership Team</p>
+                    <p class="text-lg text-gray-600 mt-8">By: Haim Cohen</p>
+                </div>
+            </div>
+
+            <div class="preso-slide">
+                <div class="flex flex-col h-full">
+                    <h2 class="text-2xl md:text-3xl font-bold text-blue-900 mb-4">The Core Safety Challenge: Post-Pandemic Trends (2021-2023)</h2>
+                    <p class="text-gray-700 mb-4 text-lg">An analysis of Clery Act crime statistics shows Trenton State's primary safety issues are not random violence, but internal and interpersonal offenses.</p>
+                </div>
+            </div>
+            
+            <div class="preso-slide">
+                 <div>
+                    <h2 class="text-2xl md:text-3xl font-bold text-blue-900 mb-4">Summary & Strategic Impact</h2>
+                    <p class="text-lg text-gray-700 mb-6">This integrated strategy realigns our resources to address Trenton State's actual, data-defined needs.</p>
+                </div>
+            </div>
+            
+             </div>
+
+        <div style="flex-shrink: 0; background-color: #1F2937; color: white; padding: 0.75rem; display: flex; align-items: center; justify-content: space-between;">
+            <button id="preso-prevBtn" style="padding: 0.5rem 1rem; background-color: #2563EB; color: white; border-radius: 0.5rem; border: none; cursor: pointer;">Previous</button>
+            <div id="preso-slide-counter" style="font-size: 0.875rem; font-weight: 500;"></div>
+            <button id="preso-nextBtn" style="padding: 0.5rem 1rem; background-color: #2563EB; color: white; border-radius: 0.5rem; border: none; cursor: pointer;">Next</button>
+        </div>
+    </div>
+
+    <script>
+        const pres_container = document.getElementById('preso-container');
+        if (pres_container) {
+            const slides = pres_container.querySelectorAll('.preso-slide');
+            const prevBtn = pres_container.querySelector('#preso-prevBtn');
+            const nextBtn = pres_container.querySelector('#preso-nextBtn');
+            const slideCounter = pres_container.querySelector('#preso-slide-counter');
+            
+            if (slides.length && prevBtn && nextBtn && slideCounter) {
+                let currentSlide = 0;
+                const enabledColor = '#2563EB';
+                const disabledColor = '#6B7280';
+
+                const showSlide = (n) => {
+                    slides.forEach(slide => slide.classList.remove('active'));
+                    slides[n].classList.add('active');
+                    slideCounter.textContent = `Slide ${n + 1} of ${slides.length}`;
+                    updateButtonStates(n);
+                };
+
+                const updateButtonStates = (n) => {
+                    prevBtn.disabled = n === 0;
+                    prevBtn.style.backgroundColor = (n === 0) ? disabledColor : enabledColor;
+                    prevBtn.style.cursor = (n === 0) ? 'not-allowed' : 'pointer';
+
+                    nextBtn.disabled = n === slides.length - 1;
+                    nextBtn.style.backgroundColor = (n === slides.length - 1) ? disabledColor : enabledColor;
+                    nextBtn.style.cursor = (n === slides.length - 1) ? 'not-allowed' : 'pointer';
+                };
+
+                nextBtn.addEventListener('click', () => {
+                    if (currentSlide < slides.length - 1) {
+                        currentSlide++;
+                        showSlide(currentSlide);
+                    }
+                });
+
+                prevBtn.addEventListener('click', () => {
+                    if (currentSlide > 0) {
+                        currentSlide--;
+                        showSlide(currentSlide);
+                    }
+                });
+                
+                showSlide(currentSlide);
+            }
+        }
+    </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trenton State Campus Safety Presentation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
         /* Base styles that are unlikely to conflict */
         .presentation-body {
             font-family: 'Inter', sans-serif;
