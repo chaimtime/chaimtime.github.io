@@ -1,11 +1,18 @@
+---
 title: "My Coffee Maker Broke"
 layout: post
 date: 2026-09-22 11:39
 image: /assets/images/[update this]
 headerImage: false
 tag:
-Coffee
-Humor
+- Coffee
+- Humor
+
+category: blog
+author: Chaim
+description: Expressing Sadness over my coffee maker
+
+---
 
 
 I make really good coffee. Like really, really good coffee. So good that I refuse to go out and get coffee because my coffee is better. My friends come to my house and specifically ask for coffee. I have people who come over and, before they even sit down, ask if I am making coffee.
