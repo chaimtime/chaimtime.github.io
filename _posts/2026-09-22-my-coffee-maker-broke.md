@@ -45,3 +45,7 @@ Which leads me to the real purpose of this post. I need a new coffee maker, and 
 I am not asking for anything crazy. I don't need a commercial espresso machine. I don't need something imported from Italy. I don't need a machine with gauges and knobs that requires a separate degree to operate. I just want another good coffee maker that grinds the beans and then successfully directs the water toward the coffee.
 
 So, in lieu of flowers, if you happen to have some extra change lying around, or money burning a hole in your pocket, think about helping fund my new coffee maker. And, of course, feel free to come over and enjoy a cup with me. Assuming the current one survives long enough to make it.
+
+If you can afford to donate:  
+[Venmo](https://venmo.com/u/chaimtime)   
+[PayPal](https://www.paypal.com/paypalme/chaimtime)
